@@ -1,1 +1,37 @@
 # day4
+Project Plan: Data, Tools, Methods, Next Steps
+
+What is this project's data?
+
+Where is the data? 
+
+-Do I have access to it?
+-Do I have to purchase it?
+-Do I have to travel somewhere to get it?
+-Do I have permission for it?
+
+What needs to be done to the data?
+
+-File format converted?
+-Structured?
+-Cleaned?
+
+What analysis will be done on this data? / What research questions do I want this data to answer?
+
+What are the best tools or methods to answer these questions?
+
+What do I need to acquire to perform this analysis?
+
+-A license
+-A dataset
+-Expertise
+-Coding knowledge
+-A research collaborator or assistant
+
+Are there existing projects that use this data?
+
+What are my next steps?
+
+-Identify external/internal grant funding
+-Establish a workplan with the DISC team
+-Locate a workshop or other training
