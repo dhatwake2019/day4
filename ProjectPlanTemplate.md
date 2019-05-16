@@ -5,10 +5,10 @@ What is this project's data?
 
 Where is the data? 
 
--Do I have access to it?
--Do I have to purchase it?
--Do I have to travel somewhere to get it?
--Do I have permission for it?
+-Do I have access to it?<br>
+-Do I have to purchase it?<br>
+-Do I have to travel somewhere to get it?<br>
+-Do I have permission for it?<br>
 
 What needs to be done to the data?
 
