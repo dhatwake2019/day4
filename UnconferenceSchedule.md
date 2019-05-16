@@ -30,5 +30,5 @@ c. JSTOR Research Tools and HathiTrust Digital Library/Research Tools (ZSR 675)
 
 <b>1:50-2:00 Break</b>
 
-2:00-3:00 (ZSR 665)<br>
-<b>Individual Work Sessions</b>
+<b>2:00-3:00 Individual Work Sessions (ZSR 665)</b><br>
+
