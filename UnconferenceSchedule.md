@@ -17,16 +17,18 @@ Copyright (with an eye toward using, analyzing, disseminating textual data)
 
 12:00-1:00 Lunch (Digital Scholarship Suite)
 
-1:00-1:50 Breakout Sessions
+<b>Afternoon Sessions</b><br>
+Notes document: https://docs.google.com/document/d/1N75afIxoIHmfzv3-NWcBXnZaGuqkCPn_njPB-UAH8Us/edit?usp=sharing
+
+<b>1:00-1:50 Breakout Sessions</b>
 
 a. File formats and metadata (ZSR 667)
 
 b. Webscraping (ZSR 674)
 
-c. JSTOR Research Tools and HathiTrust Digital Library/Research Tools
+c. JSTOR Research Tools and HathiTrust Digital Library/Research Tools (ZSR 675) 
 
 1:50-2:00 Break
 
-2:00-3:00 (DISC Suite)
-
+2:00-3:00 (ZSR 665)<br>
 Individual Work Sessions
